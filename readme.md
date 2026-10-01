@@ -1,5 +1,5 @@
 # Ujváry Vencel
-## Student, studying->
+## Hey. I'm a Student learning->
 - C# 
 - HTML/CSS/bootstrap 
 - Python
