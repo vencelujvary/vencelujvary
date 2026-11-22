@@ -1,4 +1,4 @@
-# Ujváry Vencel
+# Vencel
 ## Hey! I'm a Student currently learning->
 - C# 
 - HTML/CSS/bootstrap 
